@@ -5,7 +5,7 @@ It allow you to easily add flow-chart to your webpages.
 It is standalone, less then 5k after minify+gzip, no image download.
 It doesnt rely on external services which go on and off, or add latency while loading.
 
-Show, dont tell, here is a <a href=''>example</a>
+Show, dont tell, here is a <a href='https://github.com/majingyu/gfc/blob/master/gfc/index.html'>example</a>
 
 
 ## How to Use It
